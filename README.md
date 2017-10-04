@@ -1,4 +1,2 @@
 # georgehewitt.com
-The start of the redesign
-
-use SASS, HTML, Javascript.
+The start of the redesign, my super sad repo.
