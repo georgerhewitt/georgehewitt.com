@@ -1,0 +1,20 @@
+{
+  "mainTitle": "Stonehedge",
+  "images": [
+    {
+      "src": "image1.jpg",
+      "title": "Image 1",
+      "summary": "This is a brief description of Image 1."
+    },
+    {
+      "src": "image2.jpg",
+      "title": "Image 2",
+      "summary": "This is a brief description of Image 2."
+    },
+    {
+      "src": "image3.jpg",
+      "title": "Image 3",
+      "summary": "This is a brief description of Image 3."
+    }
+  ]
+}
