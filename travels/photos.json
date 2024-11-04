@@ -1,25 +1,25 @@
 {
-  "mainTitle": "Stonehedge",
+  "mainTitle": "Stonehenge Wiltshire, England",
   "images": [
     {
       "src": "images/IMG_20180516_113022710_HDR.jpg",
-      "title": "Image 1",
-      "summary": "This is a brief description of Image 1."
+      "title": "Stonehenge",
+      "summary": "Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England"
     },
     {
       "src": "images/IMG_20180516_113814847.jpg",
-      "title": "Image 2",
-      "summary": "This is a brief description of Image 2."
+      "title": "Stonehenge",
+      "summary": "George Hewitt (me) pointing"
     },
     {
       "src": "images/IMG_20180516_113954274.jpg",
-      "title": "Image 3",
-      "summary": "This is a brief description of Image 3."
+      "title": "Stonehenge",
+      "summary": "The wind is strong."
     },
         {
       "src": "images/IMG_20180516_115348526_HDR.jpg",
-      "title": "Image 3",
-      "summary": "This is a brief description of Image 3."
+      "title": "Stonehenge",
+      "summary": "Got close as I could."
     }
   ]
 }
