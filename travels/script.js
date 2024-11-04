@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("sample.json")
+  fetch("photos.json")
     .then(response => response.json())
     .then(data => {
       document.getElementById("mainTitle").textContent = data.mainTitle;
