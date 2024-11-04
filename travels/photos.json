@@ -2,17 +2,22 @@
   "mainTitle": "Stonehedge",
   "images": [
     {
-      "src": "image1.jpg",
+      "src": "images/IMG_20180516_113022710_HDR.jpg",
       "title": "Image 1",
       "summary": "This is a brief description of Image 1."
     },
     {
-      "src": "image2.jpg",
+      "src": "images/IMG_20180516_113814847.jpg",
       "title": "Image 2",
       "summary": "This is a brief description of Image 2."
     },
     {
-      "src": "image3.jpg",
+      "src": "images/IMG_20180516_113954274.jpg",
+      "title": "Image 3",
+      "summary": "This is a brief description of Image 3."
+    },
+        {
+      "src": "images/IMG_20180516_115348526_HDR.jpg",
       "title": "Image 3",
       "summary": "This is a brief description of Image 3."
     }
